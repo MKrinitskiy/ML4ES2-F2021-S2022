@@ -13,12 +13,12 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | Title | Date | Topic | Content |
 | ----- | ---- | ----- | ------- |
 |       |      | I семестр |    |
-| Лекция 2 | 07.10.2021 | Метод вычисления градиентов функции потерь.<br />Технические аспекты реализации backpropagation | [видеозапись](https://bit.ly/3adLejT)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect02) |
-| ДЗ №1 | 07.10.2021<br />deadline: 19.10.2021 | Реализация однослойной линейной нейросети на numpy | [Описание ДЗ и данные](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/HW01)<br />[LEADERBOARD](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/blob/main/HW01/README.md) |
-| Лекция 3 | 12.10.2021 | Оптимизация нейросетей. Свойства ландшафта функции потерь.<br />Методы оптимизации. Градиентные методы: GD, SGD. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect03) |
-| Лекция 4 | 19.10.2021 | Градиентные методы оптимизации нейросетей.<br />SGD+momentum, Nesterov momentum, RMSProp/AdaGrad, Adam | [видеозапись](https://bit.ly/3m2sPgJ)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect04) |
-| Лекция 5 | 02.11.2021 | Градиентная оптимизация нейросетей: расписание шага обучения | [видеозапись](https://bit.ly/3CXC8Vb)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect05) |
-| Лекция 6 | 09.11.2021 | Дисперсия карт активаций<br />Роль начального приближения в обучении нейросетей | [видеозапись](https://bit.ly/ML4ES2-2021-11-09-Lect06)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect06) |
+| Лекция~2 | 07.10.2021 | Метод вычисления градиентов функции потерь.<br />Технические аспекты реализации backpropagation | [видеозапись](https://bit.ly/3adLejT)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect02) |
+| ДЗ~№1 | 07.10.2021<br />deadline: 19.10.2021 | Реализация однослойной линейной нейросети на numpy | [Описание ДЗ и данные](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/HW01)<br />[LEADERBOARD](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/blob/main/HW01/README.md) |
+| Лекция~3 | 12.10.2021 | Оптимизация нейросетей. Свойства ландшафта функции потерь.<br />Методы оптимизации. Градиентные методы: GD, SGD. | [материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect03) |
+| Лекция~4 | 19.10.2021 | Градиентные методы оптимизации нейросетей.<br />SGD+momentum, Nesterov momentum, RMSProp/AdaGrad, Adam | [видеозапись](https://bit.ly/3m2sPgJ)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect04) |
+| Лекция~5 | 02.11.2021 | Градиентная оптимизация нейросетей: расписание шага обучения | [видеозапись](https://bit.ly/3CXC8Vb)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect05) |
+| Лекция~6 | 09.11.2021 | Дисперсия карт активаций<br />Роль начального приближения в обучении нейросетей | [видеозапись](https://bit.ly/ML4ES2-2021-11-09-Lect06)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect06) |
 
 
 ### Рекомендуемая литература
