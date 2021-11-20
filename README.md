@@ -20,6 +20,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | Лекция 5 | 02.11.2021 | Градиентная оптимизация нейросетей: расписание шага обучения | [видеозапись](https://bit.ly/3CXC8Vb)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect05) |
 | Лекция 6 | 09.11.2021 | Дисперсия карт активаций<br />Роль начального приближения в обучении нейросетей | [видеозапись](https://bit.ly/ML4ES2-2021-11-09-Lect06)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect06) |
 | Лекция 7 | 16.11.2021 | Дисперсия карт активаций для глубоких нейросетей<br />Варианты инициализации весов, улучшающих сходимость обучения. | [видеозапись](https://bit.ly/ML4ES2-2021-11-16-Lect07)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect07) |
+| ДЗ №2 | 16.11.2021<br />deadline: **30.11.2021** | Реализация многослойной нейросети с нелинейными функциями активации на numpy | [Описание ДЗ и данные](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/HW02) |
 
 
 ### Рекомендуемая литература
