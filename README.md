@@ -30,6 +30,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | Занятие 15 | 18.03.2022 | Семинар. Тьюториал. Оптимизация и ускорение процессов подготовки, аугментации данных и передачи на GPU. | [видеозапись](https://bit.ly/ML4ES2-2022-03-18-Seminar-data-preprocessing)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect15) |
 | Занятие 16 | 22.03.2022 | Семинар. Практика. Свёрточная операция своими руками на numpy. | [видеозапись](https://bit.ly/ML4ES2-2022-03-22-Lect15)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect16) |
 | Лекция 17 | 31.03.2022 | Свёрточные нейронные сети: модификации операции свёртки | [видеозапись](https://bit.ly/ML4ES2-2022-03-31-Lect17)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect17) |
+| Лекция 18 | 07.04.2022 | Свёрточные нейронные сети: обзор архитектур;<br />Подходы Transfer Learning, Fine Tuning. | [видеозапись](https://bit.ly/ML4ES2-2022-04-07-Lect18)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect18) |
 
 
 
