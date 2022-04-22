@@ -33,6 +33,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | Лекция 18 | 07.04.2022 | Свёрточные нейронные сети: обзор архитектур;<br />Подходы Transfer Learning, Fine Tuning. | [видеозапись](https://ml4es.ru/links/ML4ES2-2022-04-07-Lect18.mp4)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect18) |
 | ДЗ №4 | 07.04.2022 | Обзор исследовательской статьи, представляющей архитектуру СНС или подход решения задачи классификации с применением СНС. | [Описание ДЗ](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/HW04) |
 | Лекция 19 | 14.04.2022 | Вычисление градиентов в Pytorch.<br />Визуализация и интерпретация свёрточных нейронных сетей. | [видеозапись](https://ml4es.ru/links/ML4ES2-2022-04-14-Lect19.mp4)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect19) |
+| Лекция 20 | 22.04.2022 | Атака с демонстрацией состязательных примеров.<br />Adversarial examples. | [видеозапись](https://ml4es.ru/links/ML4ES2-2022-04-22-Lect20.mp4)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect20) |
 
 
 
