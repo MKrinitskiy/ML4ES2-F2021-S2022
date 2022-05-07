@@ -36,6 +36,7 @@ Machine learning for Earth Sciences F2021-S2022 by [Mikhail Krinitskiy](https://
 | Лекция 20 | 22.04.2022 | Атака с демонстрацией состязательных примеров.<br />Adversarial examples. | [видеозапись](https://ml4es.ru/links/ML4ES2-2022-04-22-Lect20.mp4)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect20) |
 | Семинар | 22.04.2022 | Разбор метода кластеризации на основе искусственных нейронных сетей с порождением псевдометок.<br />SPICE: Semantic Pseudo-labeling for Image Clustering | [видеозапись](https://ml4es.ru/links/2022-04-22-SPICESeminar.mp4)<br />[статья](https://arxiv.org/abs/2103.09382) |
 | Лекция 21 | 26.04.2022 | Задачи извлечения значимых скрытых представлений данных.<br />Модель автокодировщика. Понижающий автокодировщик. Шумоподавляющий автокодировщик. | [видеозапись](https://ml4es.ru/links/ML4ES2-2022-04-26-Lect21.mp4)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect21) |
+| Лекция 22 | 05.05.2022 | Разреженный автокодировщик<br />Вариационный автокодировщик | [видеозапись](https://ml4es.ru/links/ML4ES2-2022-05-05-Lect22.mp4)<br />[материалы занятия](https://github.com/MKrinitskiy/ML4ES2-F2021-S2022/tree/master/Lect22) |
 
 
 
